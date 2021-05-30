@@ -12,7 +12,7 @@ class Bin
 		this.w=w
 		this.h=h
 		this.body=Bodies.rectangle(x, y, w, h , options);
-        this.image = loadImage("sprites/dustbin2.png");
+        this.image = loadImage("dustbin2.png");
  		
 
 	}
